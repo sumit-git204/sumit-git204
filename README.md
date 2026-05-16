@@ -59,9 +59,9 @@ me.say_hi()
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -177,10 +177,10 @@ Analyzes images using ML and computer vision to detect and visualize personality
 ## 🧠 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/sumitbadoni?theme=dark&font=Nunito&ext=heatmap"/>
 </div>
 
-> 🔁 Replace `YOUR_LEETCODE_USERNAME` with your actual LeetCode handle
+> 🔁 Replace `[sumitbadoni](https://leetcode.com/u/sumitbadoni/)` with your actual LeetCode handle
 
 ---
 
