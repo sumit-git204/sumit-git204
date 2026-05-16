@@ -5,9 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Open+Source+Contributor+🌟;AI+%26+ML+Explorer+🤖;Building+Real+World+Projects+🔥" />
 
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Cool+Projects+%F0%9F%94%A5;Deep+Learning+Explorer+%F0%9F%A7%A0" />
-
 </div>
 
 ---
