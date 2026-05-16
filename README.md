@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:7b2ff7&height=200&section=header&text=Hey,%20I'm%20Sumit%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Explorer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:7b2ff7&height=220&section=header&text=Hey,%20I'm%20Sumit%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20&descAlignY=58&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Open+Source+Contributor+🌟;AI+%26+ML+Explorer+🤖;Building+Real+World+Projects+🔥" />
+
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Cool+Projects+%F0%9F%94%A5;Deep+Learning+Explorer+%F0%9F%A7%A0" />
 
@@ -18,6 +22,7 @@ class Sumit:
         self.location    = "India 🇮🇳"
         self.currently   = ["Deep Learning", "GenAI", "Scalable Systems"]
         self.loves       = ["Open Source", "AI/ML", "Interactive Web Apps"]
+        self.projects    = ["AutoExpert", "HireMeScore", "FitSphere", "CallSentimentAI"]
         self.motto       = "while not success: try_again()"
 
     def say_hi(self):
@@ -27,21 +32,21 @@ me = Sumit()
 me.say_hi()
 ```
 
-- 🚀 Passionate about building **real-world software** that makes an impact  
-- 🌱 Currently deep-diving into **Deep Learning & Generative AI**  
-- 💻 Full Stack Developer with a love for **scalable, elegant systems**  
-- ⚡ Always building interactive web applications that people enjoy  
-- 🎯 Obsessed with sharpening problem-solving & engineering skills  
+- 🚀 Passionate about building **real-world software** that solves real problems
+- 🌱 Currently deep-diving into **Deep Learning & Generative AI**
+- 💻 Full Stack Developer with a love for **scalable, elegant systems**
+- ⚡ Always building interactive web applications that people enjoy
+- 🎯 Obsessed with sharpening problem-solving & engineering skills
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="www.linkedin.com/in/sumit-badoni-016350293" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:sumitbadoni2004@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/sumit-git204">
@@ -51,6 +56,7 @@ me.say_hi()
 
 ---
 
+
 ## 💻 Tech Stack
 
 <div align="center">
@@ -59,12 +65,13 @@ me.say_hi()
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-
-### Frontend
+### Frontend & Templating
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -75,12 +82,15 @@ me.say_hi()
 
 ### AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 </div>
 
@@ -92,52 +102,52 @@ me.say_hi()
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ CallSentimentAI
-> AI-powered sentiment analysis platform for customer/support calls
+### 🏎️ AutoExpert
+> Car Service Management Platform
 
-Transforms raw call recordings into actionable emotional insights using speech-to-text and NLP pipelines.
+A full-stack web app for a car service business — featuring user registration & login, service listings, order & complaint management, and a complete admin dashboard for business control.
 
-**Tech:** `Python` `Streamlit` `Whisper AI` `TextBlob`
+**Tech:** `Node.js` `Express` `EJS` `MongoDB`
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/sumit-git204)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumit-git204/AutoExpert)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏋️ FitSphere
-> Full-stack fitness management platform
+### 🎯 HireMeScore
+> AI-Driven Job Readiness Evaluator
 
-Workout tracking, progress logging, and authentication — all in one clean, full-stack app.
+Evaluates candidate job-readiness by parsing their resume and analyzing academics, projects, coding activity, experience, and skills to generate a **HireMeScore (0–100)** with actionable improvement insights.
 
-**Tech:** `React` `Node.js` `MongoDB` `Express`
+**Tech:** `JavaScript` `CSS` `Node.js` `AI/ML`
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/sumit-git204)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumit-git204/hiremescore)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 Indian Hackathon Explorer
-> Discover hackathons across India
+### 🏋️ FitSphere
+> Full-Stack Fitness Management Platform
 
-Smart filtering, travel estimation, and real-time hackathon discovery platform for Indian devs.
+Track workouts, monitor progress, and manage fitness goals with a clean, full-stack MERN application featuring user authentication and a sleek dashboard.
 
-**Tech:** `React` `Firebase` `APIs`
+**Tech:** `React` `Node.js` `MongoDB` `Express`
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/sumit-git204)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumit-git204/FitSphere)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Aura Scanner
-> AI-based personality & aura detection
+### 🧠 CallSentimentAI
+> Helpdesk Call Sentiment Analyzer
 
-Analyzes images using ML and computer vision to detect and visualize personality auras.
+Upload a support call recording → get an instant transcript via Whisper + sentiment classification (positive / negative / neutral) using Transformers. Built to help teams understand customer feedback at scale.
 
-**Tech:** `Python` `Machine Learning` `OpenCV`
+**Tech:** `Python` `Streamlit` `Whisper` `PyTorch` `Transformers` `FFmpeg`
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/sumit-git204)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumit-git204/CallSentimentAI)
 
 </td>
 </tr>
@@ -153,7 +163,7 @@ Analyzes images using ML and computer vision to detect and visualize personality
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-git204&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-git204&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 ---
@@ -169,7 +179,7 @@ Analyzes images using ML and computer vision to detect and visualize personality
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumit-git204&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sumit-git204&theme=algolia&no-frame=true&margin-w=10&row=1&column=7"/>
 </div>
 
 ---
@@ -177,10 +187,8 @@ Analyzes images using ML and computer vision to detect and visualize personality
 ## 🧠 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/sumitbadoni?theme=dark&font=Nunito&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap"/>
 </div>
-
-> 🔁 Replace `[sumitbadoni](https://leetcode.com/u/sumitbadoni/)` with your actual LeetCode handle
 
 ---
 
@@ -201,6 +209,15 @@ int main() {
     return 0;
 }
 ```
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Siyaphor/Siyaphor/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<h3 align="center">✨ Turning Ideas Into Reality Through Code ✨</h3>
 
 ---
 
