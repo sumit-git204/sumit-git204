@@ -211,9 +211,11 @@ int main() {
 ```
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Siyaphor/Siyaphor/output/github-contribution-grid-snake.svg"/>
+
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/sumit-git204/sumit-git204/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
 
 ---
 
