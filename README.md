@@ -12,47 +12,51 @@
 
 ---
 
-## 🧑‍💻 About Me
 
-```python
-class Sumit:
-    def __init__(self):
-        self.name        = "Sumit"
-        self.role        = "Full Stack Developer"
-        self.location    = "India 🇮🇳"
-        self.currently   = ["Deep Learning", "GenAI", "Scalable Systems"]
-        self.loves       = ["Open Source", "AI/ML", "Interactive Web Apps"]
-        self.projects    = ["AutoExpert", "HireMeScore", "FitSphere", "CallSentimentAI"]
-        self.motto       = "while not success: try_again()"
+<table>
+<tr>
+<td width="55%">
+### 👩‍💻 About Me
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something awesome together 🚀")
+- 🎓 AI/ML Enthusiast
+- 💻 Full Stack Developer
+- 🚀 Building Real World Projects
+- 🌱 Currently Exploring Deep Learning & GenAI
+- ⚡ Love creating interactive web apps
 
-me = Sumit()
-me.say_hi()
-```
+
+    
+### 🌐 Connect With Me
+
+<p align="left">
+
+<a href="www.linkedin.com/in/sumit-badoni-016350293" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:sumitbadoni2004@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
+</p>
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
 
 - 🚀 Passionate about building **real-world software** that solves real problems
 - 🌱 Currently deep-diving into **Deep Learning & Generative AI**
 - 💻 Full Stack Developer with a love for **scalable, elegant systems**
 - ⚡ Always building interactive web applications that people enjoy
 - 🎯 Obsessed with sharpening problem-solving & engineering skills
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="www.linkedin.com/in/sumit-badoni-016350293" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:sumitbadoni2004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/sumit-git204">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
 
 ---
 
@@ -181,16 +185,6 @@ Upload a support call recording → get an instant transcript via Whisper + sent
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sumit-git204&theme=algolia&no-frame=true&margin-w=10&row=1&column=7"/>
 </div>
-
----
-
-## 🧠 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap"/>
-</div>
-
----
 
 ## ⚡ Fun Fact
 
